@@ -1,4 +1,6 @@
 Ford
 Toyota
 Mercedes
-opel
+Opel
+Kia
+Hyundai
